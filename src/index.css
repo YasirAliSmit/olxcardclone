@@ -1,0 +1,26 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.cardimg{
+   height: 200px;
+}
+.cards:hover{
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.img-card{
+   height: 200px  !important ;
+   position: relative;
+}
+.card-des{
+   font-size: 15px;
+}
+.my-btn{
+   position: absolute;
+   top:  160px;
+   
+}
+.cards{
+   margin-top: 10px;
+}
